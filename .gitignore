@@ -1,2 +1,3 @@
+.gitignore
 /data
 /catboost_info
